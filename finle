@@ -1,0 +1,70 @@
+    <!DOCTYPE html>
+<html>
+    <head>
+        <style>
+           body {
+
+            background-color: black;
+
+            color: white;
+
+            }
+
+            h1{
+                color: white;
+            }
+
+            title{
+                color: darkgreen;
+            }
+           .box {
+                display: flex;
+              }
+           .image {
+                display: flex;
+                align-items: flex-end;
+                justify-content: flex-end;
+              }
+            footer{
+                display: flex;
+                justify-content: end;
+                text-align: center;
+            }
+    
+        </style>
+        <meta name="language" content="english">
+        <title>801 Airsoft</title>
+        <body>
+           
+               
+            <h1>airsoft tactical supply</h1>
+            <p>The airsoft tactical supply is a store that has too locachins whare you can go and git all the gear that you might need of whant
+                including but not limatid to. </p>
+              <div class="box">
+                <div>list of items that we have </div>
+                </div>
+              </div>
+                <li>replacas</li>
+                <li>plate cariars</li>
+                <li>bbs</li>
+                <li>gass</li>
+                <li>magas fore eny replaca</li>
+                <li>ext</li>
+        <footer>
+            <div class="image">
+                <div> <img src="airsoft.jpeg" height="300px" width="400px">
+                <p>Its a grate place to git startid in the sport of airsoft. wether you are just atarting or you have plyad for years its a grate place with a grate and hellpfule staff.
+               So com on down and give us a visit. We cant whate to see you on the feeld.</p></div></div>
+               
+            
+           
+            <P>the store also comes with a indore feeld that is bilt to chaling evan the best players.</P>
+
+            <img src="airsoft2.jpeg" height="300px" width="400px">
+            <p>We also provide an outdore servase if indor play just isint yoer stiyle</p>
+
+            <img src="airsoft3.jpeg" height="300px" width="400px">
+        </footer>
+        </body>
+    </head>
+</html>
